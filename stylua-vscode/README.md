@@ -1,3 +1,7 @@
+**Note: this fork just adds a minor fix/workaround: avoid network access (for stylua version check) when `stylua.styluaPath` is set.**
+
+---
+
 # StyLua VSCode Extension
 
 StyLua is an opinionated code formatter for Lua 5.1 and [Luau](https://roblox.github.io/luau/), built using [full-moon](https://github.com/Kampfkarren/full-moon).

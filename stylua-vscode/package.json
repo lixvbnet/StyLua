@@ -1,15 +1,15 @@
 {
-  "name": "stylua",
-  "displayName": "StyLua",
+  "name": "styluafork",
+  "displayName": "StyLua (fork)",
   "description": "A Lua code formatter",
-  "publisher": "JohnnyMorganz",
-  "homepage": "https://github.com/JohnnyMorganz/StyLua/blob/master/README.md",
+  "publisher": "lixvbnet",
+  "homepage": "https://github.com/lixvbnet/StyLua/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JohnnyMorganz/StyLua"
+    "url": "https://github.com/lixvbnet/StyLua"
   },
   "bugs": {
-    "url": "https://github.com/JohnnyMorganz/StyLua/issues"
+    "url": "https://github.com/lixvbnet/StyLua/issues"
   },
   "license": "MPL-2.0",
   "icon": "assets/icon.png",
